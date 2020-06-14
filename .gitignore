@@ -2,3 +2,7 @@ dist/
 .code/*
 .idea/*
 
+
+*.pyc
+*.tar.gz
+venv
