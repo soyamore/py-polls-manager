@@ -6,7 +6,7 @@ asgiref==3.2.7
 atom==0.4.3
 attrs==19.3.0
 Automat==20.2.0
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.1.0
 bauh==0.9.3
 btrfsutil==1.2.0
