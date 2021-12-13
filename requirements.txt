@@ -54,7 +54,7 @@ LibAppArmor==2.13.4
 lightdm-gtk-greeter-settings==1.2.2
 lockfile==0.12.2
 louis==3.13.0
-lxml==4.5.0
+lxml==4.6.5
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 menulibre==2.2.1
